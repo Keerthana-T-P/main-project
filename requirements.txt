@@ -1,0 +1,9 @@
+gensim
+numpy
+scikit-learn
+networkx
+numpy
+scipy
+matplotlib
+torch
+torch-geometric
